@@ -6,4 +6,4 @@ title: Home
 
 # Our Family Site
 
-- [Recipes](/recipes)
+- [Recipes](/lytle-family-site/recipes)
