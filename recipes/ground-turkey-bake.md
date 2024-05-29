@@ -1,4 +1,8 @@
 ---
 layout: page
-title: Teaching Materials
+title: Ground Turkey Bake
 ---
+
+# Ground Turkey Bake
+
+## Ingredients
