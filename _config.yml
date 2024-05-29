@@ -21,7 +21,7 @@
 title: Lytle Family Site
 description: >- # this means to ignore newlines until "baseurl:"
   Hub for the Lytles.
-baseurl: "/lytle-family-site" # the subpath of your site, e.g. /blog
+baseurl: "/lytle-family-site/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
