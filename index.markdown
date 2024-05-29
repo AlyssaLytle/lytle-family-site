@@ -5,3 +5,5 @@ title: Home
 ---
 
 # Our Family Site
+
+- [Recipes](/recipes)
