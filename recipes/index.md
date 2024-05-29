@@ -2,4 +2,4 @@
 title: Recipes
 ---
 
-- [Ground Turkey Bake](/recipes/ground-turkey-bake.html)
+- [Ground Turkey Bake](/lytle-family-site/recipes/ground-turkey-bake.html)
